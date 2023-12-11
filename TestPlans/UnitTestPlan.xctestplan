@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "598EF3DA-8BEA-4068-8D12-4499D1CF0AF9",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Messenger.xcodeproj",
+      "identifier" : "D5C0143B2A0AB6B400CE5903",
+      "name" : "MessengerUnitTests"
+    },
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Messenger.xcodeproj",
+        "identifier" : "D5C0143B2A0AB6B400CE5903",
+        "name" : "MessengerUnitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
